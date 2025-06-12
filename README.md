@@ -3,7 +3,7 @@
 * Computer Graphics enthusiast. 😍
 * Working on my offline renderer lately. 🤓
 ## My GitHub Stats 📊
-![Yinghao He's GitHub stats](https://github-readme-stats.vercel.app/api?username=CherrySama&show_icons=true&theme=blueberry)  
+![Yinghao He's GitHub stats](https://github-readme-stats.vercel.app/api?username=CherrySama&show_icons=true&theme=blueberry) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CherrySama&layout=compact&theme=blueberry)](https://github.com/CherrySama/github-readme-stats)
 ## My Toolkit 🛠️
 <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
