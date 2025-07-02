@@ -1,3 +1,4 @@
+![](https://count.getloli.com/get/@:CherrySama?theme=rule34)
 # Hi there! I'm Mike Ho👋
 * Master student of Artificial Intelligence at the University of Nottingham. 🤯
 * Computer Graphics enthusiast. 😍
