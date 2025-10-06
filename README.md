@@ -2,7 +2,8 @@
 # Hi there! I'm Mike Ho👋
 * Bachelor(AI) at the North University of China & Master(AI) at the University of Nottingham. 🤯
 * Computer Graphics & Robotics enthusiast. 😍
-* Working on my offline renderer lately. [[Horenderer](https://github.com/CherrySama/HoRenderer-CPU/tree/improve/progressive-render)] 🤓
+* My offline renderer has been finished. [[Horenderer](https://github.com/CherrySama/HoRenderer-CPU/tree/improve/progressive-render)] 🤓
+* Learning and doing research on Robotics lately. 🤖
 ## My GitHub Stats 📊
 ![Yinghao He's GitHub stats](https://github-readme-stats.vercel.app/api?username=CherrySama&show_icons=true&theme=blueberry)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CherrySama&layout=compact&theme=blueberry)](https://github.com/CherrySama/github-readme-stats)
